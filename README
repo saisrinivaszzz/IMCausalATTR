@@ -1,0 +1,13 @@
+
+1) We have attribution methods that give attribution values to inputs given the output.
+
+2) Consider a complex image. To classify the image many pixels are important. However the importance of some pixels is linked with the importance o others. We consider a causal analysis of pixel importance. As a first approximation, we consider the causal analysis of superpixel(patch) importance.
+
+3) Think about fine-grained classification datasets
+ for now work on pascal, becuase classification is done on complex images unlike imagenet
+
+
+SUPERPIXELS:
+
+
+1) How important is the boundary for causality. The SIG guys took special care of the boundary.
